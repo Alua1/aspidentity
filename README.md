@@ -1,0 +1,2 @@
+# aspidentity
+mvc db admin
